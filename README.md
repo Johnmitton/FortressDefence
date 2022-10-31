@@ -10,6 +10,7 @@ Your fortress can take 2500 points of structural damage before collapsing, at wh
 game. The amount of damage that a siege tank does is relative to how many undamaged cells it has:
 
 Undamaged Tank Cells 5 4 3 2 1 0
+
 Damage Done 20 20 5 2 1 0
 
 Note that even if the middle of a tank is damaged, it still counts as one tank, and continues damaging
